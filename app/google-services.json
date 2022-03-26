@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951936508035",
+    "project_id": "sensorium-server",
+    "storage_bucket": "sensorium-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951936508035:android:c74298e30054b248c8fbb6",
+        "android_client_info": {
+          "package_name": "com.example.sensorium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951936508035-hnl77q8uq1fpi48p3gkfbp0tooo8nrp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhxrDHzX5Msk8LJuMkwDZo4zq243JazyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951936508035-hnl77q8uq1fpi48p3gkfbp0tooo8nrp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
